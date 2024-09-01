@@ -1,5 +1,4 @@
-Utilizing InteliJ to code with Java Language 
-coding with experience a library management system 
+Aspiring Software Developer 
 
 
 <!---
